@@ -1,6 +1,0 @@
-
-          window.__NEXT_REGISTER_PAGE('/archive', function() {
-            var comp = module.exports=webpackJsonp([4],{349:function(e,t,u){e.exports=u(350)},350:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var a=u(7),l=n(a),r=u(175),s=n(r),i=u(363);n(i);t.default=function(){return l.default.createElement(s.default,null,l.default.createElement("div",{className:"container"},l.default.createElement("h1",null,"The ",l.default.createElement("span",{className:"orange"},"Haywire")," Archives"),"everything else is automated!"),l.default.createElement("link",{rel:"stylesheet",href:"/static/css/archive.css"}))}},363:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var a=u(20),l=n(a),r=u(9),s=n(r),i=u(10),c=n(i),f=u(21),d=n(f),o=u(22),m=n(o),p=u(7),h=n(p),_=function(e){function t(){return(0,s.default)(this,t),(0,d.default)(this,(t.__proto__||(0,l.default)(t)).apply(this,arguments))}return(0,m.default)(t,e),(0,c.default)(t,[{key:"render",value:function(){return h.default.createElement("li",{className:"issue"},"this is issue ",this.props.number)}}]),t}(h.default.Component);t.default=_}},[349]);
-            return { page: comp.default }
-          })
-        
